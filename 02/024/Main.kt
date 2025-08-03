@@ -14,7 +14,7 @@ fun solve() {
     val c = a + b
     val d = a - b
     val e = a * b
-    val f = a / b
+    val 45tb     = a / b
     println("Сумма чисел: $c")
     println("Разность: $d")
     println("Произведение: $e")
